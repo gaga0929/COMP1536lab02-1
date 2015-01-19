@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>Put title here</title>
+	</head>
+
+	<body>
+	
+	  <!-- navigation -->
+	  <ul id="navbar">
+		  <li><a href="#">Home Page</a></li>
+		  <li><a href="#">Some Link</a></li>
+		  <li><a href="#">Contact Us</a></li>
+		  <li><a href="#">About Us</a></li>
+	  </ul>
+	  
+	  <!-- main content SOURCE: http://www.lipsum.com/ -->
+      <h1>All about (put your topic here)</h1>
+	  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vel luctus dui. Praesent ac libero non lacus vehicula tempor. Nulla non hendrerit metus. Aliquam vitae mi ut turpis accumsan adipiscing. </p>
+	  <p>Curabitur vel leo ante. Maecenas placerat leo at erat feugiat aliquam. Aenean gravida, magna in elementum facilisis, ante augue auctor nisl, sit amet vestibulum augue massa ut nunc. Nulla iaculis interdum mi, et pellentesque dolor gravida a. Sed a arcu sit amet justo iaculis tempus sit amet eu lorem. Phasellus nunc mauris, convallis vel ullamcorper varius, sollicitudin id ipsum. Morbi ut ipsum vel lorem rhoncus blandit sit amet ac urna. Maecenas quis enim ut arcu tincidunt vestibulum ut eu metus. Donec consectetur nunc sed est imperdiet cursus. Suspendisse porta rhoncus imperdiet. </p>
+	  
+	  <!-- list -->
+	  <h2>Top 5 (something)</h2>
+	  <ul class="top5">
+		  <li>who/what....</li>
+		  <li>who/what</li>
+		  <li>who/what</li>
+		  <li>who/what</li>
+		  <li>who/what</li>
+	  </ul>
+	  
+	  <!-- footer -->
+	  <p><span class="copy">COPYRIGHT Sign Here</span>&nbsp;&nbsp;&nbsp;BCIT Image as Link</p>
+	  <div class="disclaimer">
+	    <p>DISCLAIMER: Maecenas sed ultricies quam. Morbi posuere faucibus risus, sed auctor velit gravida ut.</p>
+	  </div>
+	</body>
+</html>
